@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  background-color: #4566b7;
+}
+.layout_right{
+  background-image: url('./assets/images/Background-cv.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.layout_left{
+  background-image: url('./assets/images/background-left.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left bottom;
+}
